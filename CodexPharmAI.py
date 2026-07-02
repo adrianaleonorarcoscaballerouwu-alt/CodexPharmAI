@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score
 # Configuración de la página
 st.set_page_config(page_title="PharmAI - Platform v1.0", layout="centered")
 
-st.title("🧪 PharmAI - Platform v1.0")
+st.title("🧪 CodexPharmAI - Platform v1.0")
 st.subheader("Sistema de Evaluación de IA para la Predicción de Toxicidad")
 
 # Inicialización de estado
@@ -72,4 +72,4 @@ if st.button("Ejecutar Análisis Predictivo"):
         else:
             st.error("CLASIFICACIÓN: RIESGO ELEVADO")
     else:
-        st.warning("Por favor, sube un archivo Excel primero.")
+        st.warning("Por favor, suba una base de datos primero.")
