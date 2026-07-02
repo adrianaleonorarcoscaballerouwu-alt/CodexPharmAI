@@ -1,7 +1,7 @@
 # CodexPharmAI
-===========================================================
-  BIENVENIDO A PHARMAI - DETECCIÓN DE APTO-TOXICIDAD v1.0
-===========================================================
+
+  BIENVENIDO A CODEXPHARMAI - DETECCIÓN DE APTO-TOXICIDAD v1.0
+
 Desarrollado por: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Facultad de Química e Ingeniería Química - UNMSM
 
